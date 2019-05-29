@@ -1,0 +1,22 @@
+{
+  "name": "stupid_container",
+  "version": "1.0.0",
+  "description": "A no-logic container for testing container orchestration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamShaleen/stupid_container.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamShaleen/stupid_container/issues"
+  },
+  "homepage": "https://github.com/adamShaleen/stupid_container#readme",
+  "devDependencies": {}
+}
